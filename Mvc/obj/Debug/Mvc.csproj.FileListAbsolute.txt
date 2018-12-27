@@ -1,0 +1,174 @@
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Mvc.dll.config
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Mvc.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Mvc.pdb
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\ActionService.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Antlr3.Runtime.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\AutoMapper.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DataObjects.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.Core.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\EntityFramework.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Newtonsoft.Json.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Helpers.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Mvc.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Optimization.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Razor.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebGrease.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.Data.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.WebData.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\ActionService.pdb
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\BusinessObjects.pdb
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DataObjects.pdb
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\AutoMapper.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\EntityFramework.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Newtonsoft.Json.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Helpers.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Mvc.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Razor.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.Data.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.WebData.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.Core.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\obj\Debug\Mvc.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\obj\Debug\Mvc.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Mvc.dll.config
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Mvc.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Mvc.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\ActionService.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Antlr3.Runtime.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\AutoMapper.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DataObjects.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.Core.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\EntityFramework.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Newtonsoft.Json.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Helpers.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Mvc.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Optimization.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Razor.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebGrease.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.Data.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.WebData.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\ActionService.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\BusinessObjects.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DataObjects.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\AutoMapper.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\EntityFramework.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Newtonsoft.Json.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Helpers.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Mvc.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.Razor.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.Data.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\WebMatrix.WebData.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.Core.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\obj\Debug\Mvc.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\Mvc\obj\Debug\Mvc.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Mvc.dll.config
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Mvc.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Mvc.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\ActionService.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Antlr3.Runtime.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\AutoMapper.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DataObjects.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.Core.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\EntityFramework.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Newtonsoft.Json.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Helpers.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Http.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Mvc.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Optimization.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Razor.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.WebPages.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\WebGrease.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\WebMatrix.Data.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\WebMatrix.WebData.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\ActionService.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\BusinessObjects.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DataObjects.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\AutoMapper.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\EntityFramework.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Newtonsoft.Json.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Helpers.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Http.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Mvc.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.Razor.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.WebPages.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\WebMatrix.Data.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\WebMatrix.WebData.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.Core.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\obj\Debug\Mvc.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Shopia\Mvc\obj\Debug\Mvc.pdb

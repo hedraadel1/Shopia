@@ -1,0 +1,10 @@
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\NewIDea\Desktop\Desk\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\BusinessObjects\obj\Debug\BusinessObjects.pdb

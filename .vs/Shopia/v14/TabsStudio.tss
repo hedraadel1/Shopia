@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\WinFormsApp\Views\IMembersView.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\WinFormsApp\Presenters\MembersPresenter.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\NewIDea\Desktop\PRO_.NET_Design_Pattern_Framework_4.5_Downloadly.ir\PRO .NET Design Pattern Framework 4.5\Patterns in Action\WinFormsApp\Presenters\Presenter.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
